@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/678143501/android.cloud_firestore.iml" filepath="$PROJECT_DIR$/.idea/modules/678143501/android.cloud_firestore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-224078366/android.firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/-224078366/android.firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2122920239/android.firebase_core.iml" filepath="$PROJECT_DIR$/.idea/modules/2122920239/android.firebase_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/11174106/android.shared_preferences.iml" filepath="$PROJECT_DIR$/.idea/modules/11174106/android.shared_preferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1553620216/android.url_launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/1553620216/android.url_launcher.iml" />
+    </modules>
+  </component>
+</project>

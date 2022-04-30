@@ -1,0 +1,4 @@
+#Wed Oct 20 15:41:08 EET 2021
+base.0=/home/ahmedelheity/Downloads/Telegram Desktop/test/build/app/intermediates/transforms/r8/release/0/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,20 @@
+# Referenced at /home/ahmedelheity/Downloads/Telegram Desktop/test/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:20
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /home/ahmedelheity/Downloads/Telegram Desktop/test/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:25
+-keep class com.bytx.product.MainActivity { <init>(); }
+# Referenced at /home/ahmedelheity/Downloads/Telegram Desktop/test/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:155
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at /home/ahmedelheity/Downloads/Telegram Desktop/test/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:137
+-keep class com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService { <init>(); }
+# Referenced at /home/ahmedelheity/Downloads/Telegram Desktop/test/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:100
+-keep class com.google.firebase.auth.internal.GenericIdpActivity { <init>(); }
+# Referenced at /home/ahmedelheity/Downloads/Telegram Desktop/test/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:118
+-keep class com.google.firebase.auth.internal.RecaptchaActivity { <init>(); }
+# Referenced at /home/ahmedelheity/Downloads/Telegram Desktop/test/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:68
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
+# Referenced at /home/ahmedelheity/Downloads/Telegram Desktop/test/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:148
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+# Referenced at /home/ahmedelheity/Downloads/Telegram Desktop/test/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:20
+-keep class io.flutter.app.FlutterApplication { <init>(); }
+# Referenced at /home/ahmedelheity/Downloads/Telegram Desktop/test/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:96
+-keep class io.flutter.plugins.urllauncher.WebViewActivity { <init>(); }
